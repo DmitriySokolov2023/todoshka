@@ -1,0 +1,22 @@
+.navbar{
+    width: 300px;
+    background-color: rgba(225, 223, 223, 0.34);
+    margin-right: 50px;
+    border-radius: 0 5px 5px 0;
+    padding: 50px 20px;
+
+}
+
+.navbar__items{
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar__item{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: #ecc6c6;
+    border-radius: 10px;
+}
